@@ -31,7 +31,7 @@ Basitçe Dosyayı indirin ve sitenize ekleyin.
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
 * Website: https://beastprofile.tr.ht
-* Github: [@mitszy](https://github.com/mitszy)
+* Github: [@serhanyamand](https://github.com/serhanyamand)
 
 
 ## Bize Destek Ol
