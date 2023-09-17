@@ -27,7 +27,7 @@ Basitçe Dosyayı indirin ve sitenize ekleyin.
 
 ## Yapımcılar
 
-👤 **Mitszy**
+👤 **Serhanyamand**
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
 * Website: https://beastprofile.tr.ht
