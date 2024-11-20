@@ -1,6 +1,6 @@
 <h1 align="center">Profil Sitesi 2 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-V1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-V2-blue.svg?cacheSeconds=2592000" />
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHFOAuLbBFrFZItvtUlszyw?style=social">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHFOAuLbBFrFZItvtUlszyw?style=social">
 
